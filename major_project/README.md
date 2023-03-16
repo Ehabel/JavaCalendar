@@ -1,3 +1,5 @@
+Runs on JDK 17 with Gradle 8
+
 **Input API:** Holidays-API
 
 **Output API:** Pastebin
