@@ -32,7 +32,7 @@ The about section can be accessed at anytime by clicking on the menu and clickin
 ### SplashScreen
 The splashscreen will remain visible until 15 seconds have passed before disappearing and the program can run as normal. To change the display time simply change the value of loadTime variable in the MainWindow.java file.
 
-# Exam
+# Add custom calendar
 To access the new feature (custom holiday) first select a country. The way the app runs normally is the same. Then click the "Create Custom Holiday" button.
 First enter a date for the holiday and then click "Set date" button. Then fill in the fields and click the button to allow the app to display the custom holiday.
 The custom holiday will appear with blue background and will always be rendered when on the correct month with no further action needed. To check if a holiday exists on a selected day click on the different shaded part at the bottom of the cell.
